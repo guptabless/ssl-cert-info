@@ -9,6 +9,6 @@
 - os
 
 
-## usage: sslCertInfo.py [-h] -d DOMAIN <a single domain or a text file with domains>
+## usage: sslCertInfo.py [-h] -d DOMAIN < a single domain or a text file with domains >
 ### OPTIONS
 #### -h,               --help 
