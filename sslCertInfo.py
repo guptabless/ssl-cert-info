@@ -77,5 +77,3 @@ if len(sys.argv) > 1:
         banner()
         print(bcolors.ERR + 'Please select at-least 1 option from -d or -h, with a valid domain')
 
-
-#C:\Users\gupta\PycharmProjects\miraa\sslcert.txt
