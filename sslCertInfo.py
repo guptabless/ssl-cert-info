@@ -75,5 +75,5 @@ if len(sys.argv) > 1:
             print(bcolors.OKMSG + 'Please enter -d < valid domain >')
     else:
         banner()
-        print(bcolors.ERR + 'Please select at-least 1 option from -d or -h, with a valid domain')
+        print(bcolors.ERR + 'Please select at-least 1 option from -d or -h, with a valid domain ')
 
